@@ -1,0 +1,21 @@
+Date,Order_ID,Item,Category,Quantity,Unit_Price,Total_Sales,Payment_Method
+2026-07-01,R1001,Zinger Burger,Burger,5,650,3250,Cash
+2026-07-01,R1002,Fries,Sides,8,250,2000,Card
+2026-07-01,R1003,Chicken Pizza,Pizza,3,1800,5400,Cash
+2026-07-02,R1004,Beef Burger,Burger,6,700,4200,Card
+2026-07-02,R1005,Soft Drink,Beverage,10,180,1800,Cash
+2026-07-03,R1006,Chicken Wrap,Wrap,4,550,2200,Card
+2026-07-03,R1007,Fries,Sides,12,250,3000,Cash
+2026-07-04,R1008,Zinger Burger,Burger,7,650,4550,Online
+2026-07-04,R1009,Chicken Pizza,Pizza,2,1800,3600,Card
+2026-07-05,R1010,Ice Cream,Dessert,5,300,1500,Cash
+2026-07-05,R1011,Beef Burger,Burger,8,700,5600,Online
+2026-07-06,R1012,Coffee,Beverage,9,350,3150,Card
+2026-07-06,R1013,Chicken Wrap,Wrap,5,550,2750,Cash
+2026-07-07,R1014,Zinger Burger,Burger,10,650,6500,Online
+2026-07-07,R1015,Fries,Sides,15,250,3750,Card
+2026-07-08,R1016,Chicken Pizza,Pizza,4,1800,7200,Cash
+2026-07-08,R1017,Soft Drink,Beverage,14,180,2520,Online
+2026-07-09,R1018,Beef Burger,Burger,9,700,6300,Card
+2026-07-10,R1019,Ice Cream,Dessert,6,300,1800,Cash
+2026-07-10,R1020,Zinger Burger,Burger,11,650,7150,Online

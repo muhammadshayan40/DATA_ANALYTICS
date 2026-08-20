@@ -1,3 +1,4 @@
+#LEVEL 2
 import pandas as pd
 
 data= pd.read_csv("D:/COMEB@CK/sales_data.csv")
